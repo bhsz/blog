@@ -503,3 +503,6 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.site-header, .site-footer {
+  background-color: #f6f6f6; }
