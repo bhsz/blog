@@ -13,7 +13,7 @@ date: 2021-07-24 00:00
 - Debt-to-income ratio is total monthly debt divided by total monthly income.
     - As a rule of thumb, ≤35% is good, ≥50% is very bad!
     - 43% is the magic number - the highest ratio (in most cases) for an individual to still be able to secure a mortgage.
-- High credit score, high down payment and low debt-to-income ratio leads to lower interest rates.\
+- High credit score, high down payment and low debt-to-income ratio leads to lower interest rates.<br>
 
 > Beware of little expenses. A small leak will sink a great ship.
 
