@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Notes on Personal Finance"
-date: 2021-07-24 00:00
+date: 2021-07-20 00:00
 ---
 
 *The following is by no means financial advice, nor do I have experience in professional finance. They are simply my personal notes.*
