@@ -70,11 +70,11 @@ date: 2021-07-24 00:00
 <br>
 
 References:
-- [https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp)
-- [https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/)
-- [https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/debt-to-income-ratio/understanding-dti/](https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/debt-to-income-ratio/understanding-dti/)
-- [https://en.wikipedia.org/wiki/Mortgage_calculator#Monthly_payment_formula](https://en.wikipedia.org/wiki/Mortgage_calculator#Monthly_payment_formula)
-- [https://time.com/nextadvisor/mortgages/how-much-income-should-go-to-your-mortgage/](https://time.com/nextadvisor/mortgages/how-much-income-should-go-to-your-mortgage/)
-- [https://www.investopedia.com/how-much-should-i-spend-on-a-car-5187853](https://www.investopedia.com/how-much-should-i-spend-on-a-car-5187853)
-- [https://moneysavedmoneyearned.com/buying-a-new-car/](https://moneysavedmoneyearned.com/buying-a-new-car/)
-- [https://www.imoney.my/articles/how-much-income-invest](https://www.imoney.my/articles/how-much-income-invest)
+- [503020 Rule](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp)
+- [Debt to Income Ratio #1](https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/)
+- [Debt to Income Ratio #2](https://www.wellsfargo.com/goals-credit/smarter-credit/credit-101/debt-to-income-ratio/understanding-dti/)
+- [Mortgage Payment Formula](https://en.wikipedia.org/wiki/Mortgage_calculator#Monthly_payment_formula)
+- [How much income should go to your mortgage?](https://time.com/nextadvisor/mortgages/how-much-income-should-go-to-your-mortgage/)
+- [How much should I spend on a car?](https://www.investopedia.com/how-much-should-i-spend-on-a-car-5187853)
+- [Buying a new car](https://moneysavedmoneyearned.com/buying-a-new-car/)
+- [How much income should I invest?](https://www.imoney.my/articles/how-much-income-invest)
