@@ -18,9 +18,8 @@ date: 2021-07-24 00:00
 <br>
 <br>
 
-> Beware of little expenses. A small leak will sink a great ship.
-
 **50-30-20 Rule for Budgetting**
+> Beware of little expenses. A small leak will sink a great ship.
 - Of your **after-tax income**...
     - **At most 50%** for **needs**
     - **At most** **30%** for **wants**
