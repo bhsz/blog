@@ -20,6 +20,7 @@ date: 2021-07-24 00:00
 
 **50-30-20 Rule for Budgetting**
 > Beware of little expenses. A small leak will sink a great ship.
+
 - Of your **after-tax income**...
     - **At most 50%** for **needs**
     - **At most 30%** for **wants**
@@ -32,6 +33,7 @@ date: 2021-07-24 00:00
 
 **Investment**
 > The earlier you invest, the more powerful you compound.
+
 - Before investing, make sure that you have **emergency funds** in place.
 - **Start small**, but make sure you **actually start**! Money in the bank gets eaten away by inflation.
 - Consider your financial goals and then check on how to reach them.
@@ -43,6 +45,7 @@ date: 2021-07-24 00:00
 
 **28/36 Rule on Debt**
 > Never buy a house you can’t afford.
+
 - Of your **pre-tax income**...
     - **No more than** **28%** for **mortgage payment**
     - **No more than** **36%** for **total debt**
@@ -54,6 +57,7 @@ date: 2021-07-24 00:00
 
 **How much should I spend on cars?**
 > Buying a new car is often a bad financial decision, they depreciate in value significantly and quickly.
+
 - **As little as possible!** Consider getting a good used car.
 - In terms of numbers, expenses should be capped at **10-15% of monthly income**.
 - Note that this includes loan repayments, maintenance fees, fuel, insurance premiums etc.
