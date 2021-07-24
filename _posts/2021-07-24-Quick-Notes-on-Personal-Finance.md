@@ -29,6 +29,7 @@ date: 2021-07-24 00:00
     - How much do I need in my emergency fund?
     There is no one-size-fit-all here, I think the more the better. It provides a cushion from financial stress from unexpected expenses. I think it would be safe to have at least 1.25x 3-6 months of your monthly expenses covered.
 <br>
+<br>
 
 > The earlier you invest, the more powerful you compound.
 
@@ -45,9 +46,9 @@ date: 2021-07-24 00:00
 > Never buy a house you can’t afford.
 
 **28/36 Rule on Debt**
-- Of your **pre-tax income**...
-    - **No more than** **28%** for **mortgage payment**
-    - **No more than** **36%** for **total debt**
+    - Of your **pre-tax income**...
+        - **No more than** **28%** for **mortgage payment**
+        - **No more than** **36%** for **total debt**
 - Here are some tools for homebuyers
     - [Mortgage calculator](https://time.com/nextadvisor/calculators/mortgage-calculator/)
     - [How much house you can afford](https://time.com/nextadvisor/calculators/mortgage-calculator/)
