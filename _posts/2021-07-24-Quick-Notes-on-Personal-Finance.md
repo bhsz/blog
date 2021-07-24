@@ -9,17 +9,18 @@ date: 2021-07-24 00:00
 <br>
 <br>
 
-General Terminology & Knowledge
+**General Terminology & Knowledge**
 - Initial loan is also called your mortgage principal.
 - Debt-to-income ratio is total monthly debt divided by total monthly income.
     - As a rule of thumb, ≤35% is good, ≥50% is very bad!
     - 43% is the magic number - the highest ratio (in most cases) for an individual to still be able to secure a mortgage.
 - High credit score, high down payment and low debt-to-income ratio leads to lower interest rates.
 <br>
+<br>
 
 > Beware of little expenses. A small leak will sink a great ship.
 
-50-30-20 Rule for Budgetting
+**50-30-20 Rule for Budgetting**
 - Of your **after-tax income**...
     - **At most 50%** for **needs**
     - **At most** **30%** for **wants**
@@ -31,7 +32,7 @@ General Terminology & Knowledge
 
 > The earlier you invest, the more powerful you compound.
 
-Investment
+**Investment**
 - Before investing, make sure that you have **emergency funds** in place.
 - **Start small**, but make sure you **actually start**! Money in the bank gets eaten away by inflation.
 - Consider your financial goals and then check on how to reach them.
@@ -39,10 +40,11 @@ Investment
 - Rule of thumb - invest **10-15%** of your income.
 - What to invest in? That's a topic for another day 😉
 <br>
+<br>
 
 > Never buy a house you can’t afford.
 
-28/36 Rule on Debt
+**28/36 Rule on Debt**
 - Of your **pre-tax income**...
     - **No more than** **28%** for **mortgage payment**
     - **No more than** **36%** for **total debt**
@@ -50,10 +52,11 @@ Investment
     - [Mortgage calculator](https://time.com/nextadvisor/calculators/mortgage-calculator/)
     - [How much house you can afford](https://time.com/nextadvisor/calculators/mortgage-calculator/)
 <br>
+<br>
 
 > Buying a new car is often a bad financial decision, they depreciate in value significantly and quickly.
 
-How much should I spend on cars?
+**How much should I spend on cars?**
 - **As little as possible!** Consider getting a good used car.
 - In terms of numbers, expenses should be capped at **10-15% of monthly income**.
 - Note that this includes loan repayments, maintenance fees, fuel, insurance premiums etc.
