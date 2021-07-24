@@ -10,7 +10,6 @@ date: 2021-07-24 00:00
 <br>
 
 **General Terminology & Knowledge**
-
 - Initial loan is also called your mortgage principal.
 - Debt-to-income ratio is total monthly debt divided by total monthly income.
     - As a rule of thumb, ≤35% is good, ≥50% is very bad!
