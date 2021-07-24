@@ -6,6 +6,7 @@ date: 2021-07-24 00:00
 # Personal Finance
 
 *The following is by no means financial advice, nor do I have experience in professional finance. They are simply my personal notes.*
+<br>
 
 **General Terminology & Knowledge**
 
@@ -27,6 +28,7 @@ date: 2021-07-24 00:00
 - You should start using your savings to secure at least 3-6 months of emergency funds first, then focus on investments, retirement funds and other financial goals.
     - How much do I need in my emergency fund?
     There is no one-size-fit-all here, I think the more the better. It provides a cushion from financial stress from unexpected expenses. I think it would be safe to have at least 1.25x 3-6 months of your monthly expenses covered.
+<br>
 
 > The earlier you invest, the more powerful you compound.
 
@@ -38,6 +40,7 @@ date: 2021-07-24 00:00
     - [Investment calculator](https://www.calculator.net/investment-calculator.html)
 - Rule of thumb - invest **10-15%** of your income.
 - What to invest in? That's a topic for another day 😉
+<br>
 
 > Never buy a house you can’t afford.
 
@@ -49,6 +52,7 @@ date: 2021-07-24 00:00
 - Here are some tools for homebuyers
     - [Mortgage calculator](https://time.com/nextadvisor/calculators/mortgage-calculator/)
     - [How much house you can afford](https://time.com/nextadvisor/calculators/mortgage-calculator/)
+<br>
 
 > Buying a new car is often a bad financial decision, they depreciate in value significantly and quickly.
 
@@ -57,7 +61,9 @@ date: 2021-07-24 00:00
 - **As little as possible!** Consider getting a good used car.
 - In terms of numbers, expenses should be capped at **10-15% of monthly income**.
 - Note that this includes loan repayments, maintenance fees, fuel, insurance premiums etc.
-
+<br>
+<br>
+<br>
 References:
 
 - [https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp)
