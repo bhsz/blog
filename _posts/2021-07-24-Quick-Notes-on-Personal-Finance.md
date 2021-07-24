@@ -5,7 +5,7 @@ date: 2021-07-24 00:00
 ---
 
 # Personal Finance
-*The following is by no means financial advice, nor do I have experience in professional finance. They are simply my personal notes.*
+*The following is by no means financial advice, nor do I have experience in professional finance. They are simply my personal notes.*     
 
 
 **General Terminology & Knowledge**
@@ -13,7 +13,7 @@ date: 2021-07-24 00:00
 - Debt-to-income ratio is total monthly debt divided by total monthly income.
     - As a rule of thumb, ≤35% is good, ≥50% is very bad!
     - 43% is the magic number - the highest ratio (in most cases) for an individual to still be able to secure a mortgage.
-- High credit score, high down payment and low debt-to-income ratio leads to lower interest rates.
+- High credit score, high down payment and low debt-to-income ratio leads to lower interest rates.     
 
 
 > Beware of little expenses. A small leak will sink a great ship.
@@ -24,8 +24,8 @@ date: 2021-07-24 00:00
     - **At least** ****20%** for **savings**
 - You should start using your savings to secure at least 3-6 months of emergency funds first, then focus on investments, retirement funds and other financial goals.
     - How much do I need in my emergency fund?
-    There is no one-size-fit-all here, I think the more the better. It provides a cushion from financial stress from unexpected expenses. I think it would be safe to have at least 1.25x 3-6 months of your monthly expenses covered.
-
+    There is no one-size-fit-all here, I think the more the better. It provides a cushion from financial stress from unexpected expenses. I think it would be safe to have at least 1.25x 3-6 months of your monthly expenses covered.     
+    
 
 > The earlier you invest, the more powerful you compound.
 **Investment**
@@ -34,7 +34,7 @@ date: 2021-07-24 00:00
 - Consider your financial goals and then check on how to reach them.
     - [Investment calculator](https://www.calculator.net/investment-calculator.html)
 - Rule of thumb - invest **10-15%** of your income.
-- What to invest in? That's a topic for another day 😉
+- What to invest in? That's a topic for another day 😉     
 
 
 > Never buy a house you can’t afford.
@@ -44,14 +44,14 @@ date: 2021-07-24 00:00
     - **No more than** **36%** for **total debt**
 - Here are some tools for homebuyers
     - [Mortgage calculator](https://time.com/nextadvisor/calculators/mortgage-calculator/)
-    - [How much house you can afford](https://time.com/nextadvisor/calculators/mortgage-calculator/)
+    - [How much house you can afford](https://time.com/nextadvisor/calculators/mortgage-calculator/)     
 
 
 > Buying a new car is often a bad financial decision, they depreciate in value significantly and quickly.
 **How much should I spend on cars?**
 - **As little as possible!** Consider getting a good used car.
 - In terms of numbers, expenses should be capped at **10-15% of monthly income**.
-- Note that this includes loan repayments, maintenance fees, fuel, insurance premiums etc.
+- Note that this includes loan repayments, maintenance fees, fuel, insurance premiums etc.      
 
 
 References:
