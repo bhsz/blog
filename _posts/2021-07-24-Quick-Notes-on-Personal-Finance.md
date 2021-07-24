@@ -22,8 +22,8 @@ date: 2021-07-24 00:00
 > Beware of little expenses. A small leak will sink a great ship.
 - Of your **after-tax income**...
     - **At most 50%** for **needs**
-    - **At most** **30%** for **wants**
-    - **At least** **20%** for **savings**
+    - **At most 30%** for **wants**
+    - **At least 20%** for **savings**
 - You should start using your savings to secure at least 3-6 months of emergency funds first, then focus on investments, retirement funds and other financial goals.
     - How much do I need in my emergency fund?
     There is no one-size-fit-all here, I think the more the better. It provides a cushion from financial stress from unexpected expenses. I think it would be safe to have at least 1.25x 3-6 months of your monthly expenses covered.
