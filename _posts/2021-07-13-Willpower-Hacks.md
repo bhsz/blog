@@ -3,7 +3,6 @@ layout: post
 title:  "Willpower Hacks"
 date:   2021-07-13 22:-0:00 +0800
 ---
-# Willpower Hacks
 
 *This post is simply a summary from Dean Yeong's article - [4 Simple Hacks to Stronger Willpower](https://www.deanyeong.com/article/4-hacks-to-stronger-willpower)*
 
