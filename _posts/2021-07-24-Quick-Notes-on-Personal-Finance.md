@@ -19,6 +19,7 @@ date: 2021-07-24 00:00
 <br>
 
 **50-30-20 Rule for Budgetting**
+
 > Beware of little expenses. A small leak will sink a great ship.
 
 - Of your **after-tax income**...
@@ -32,6 +33,7 @@ date: 2021-07-24 00:00
 <br>
 
 **Investment**
+
 > The earlier you invest, the more powerful you compound.
 
 - Before investing, make sure that you have **emergency funds** in place.
@@ -44,6 +46,7 @@ date: 2021-07-24 00:00
 <br>
 
 **28/36 Rule on Debt**
+
 > Never buy a house you can’t afford.
 
 - Of your **pre-tax income**...
@@ -56,6 +59,7 @@ date: 2021-07-24 00:00
 <br>
 
 **How much should I spend on cars?**
+
 > Buying a new car is often a bad financial decision, they depreciate in value significantly and quickly.
 
 - **As little as possible!** Consider getting a good used car.
